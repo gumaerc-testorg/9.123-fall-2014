@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, and the schedule of course topics, guest lecturers, quizzes,
+  and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +19,7 @@ Course Description
 
 This course, as a part of MIT's [Center for Neurobiological Engineering curriculum](http://web.mit.edu/cnbe/training.html), explores cutting-edge neurotechnology that is essential for advances in all aspects of neuroscience, including improvements in existing methods as well as the development, testing and discussion of completely new paradigms. Readings and in-class sessions cover the fields of electrophysiology, light microscopy, cellular engineering, optogenetics, electron microscopy, MRI / fMRI, and MEG / EEG. The course is designed with lectures that cover the background, context, and theoretical descriptions of neurotechnologies, and labs, which provide firsthand demonstrations as well as _in situ_ lab tours.
 
-Please see the [Course Publicity]({{< baseurl >}}/pages/course-publicity) page about the blog series by Amy Robinson for _Scientific American_ and EyeWire.  
+Please see the {{% resource_link 687191aa-88b0-09c3-aae2-bd454da42cab "Course Publicity" %}} page about the blog series by Amy Robinson for _Scientific American_ and EyeWire.  
 
 Grading
 -------

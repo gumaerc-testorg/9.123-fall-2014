@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page focuses on a blog series about 9.123 by Amy Robinson for Scientific
+  American and EyeWire.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Course Publicity
