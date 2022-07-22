@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides materials used in several lecture and lab sessions
+  of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 92e771ae-c9b8-d8de-51ce-728fbb00e3ba
 ---
@@ -27,7 +32,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Introduction; Overview of Neurotechnology (PDF - 3.1MB)]({{< baseurl >}}/resources/mit9_123f14_lec1)
+{{% resource_link 2b9598c3-b1a0-c2b0-6b9a-db32518f205a "Course Introduction; Overview of Neurotechnology (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +41,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Optogenetics (PDF - 1.9MB)]({{< baseurl >}}/resources/mit9_123f14_lec6)
+{{% resource_link 8f26d380-a0eb-8b89-22bc-4d92f5a5426f "Optogenetics (PDF - 1.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +52,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Virus Engineering (PDF - 5.9MB)]({{< baseurl >}}/resources/mit9_123f14_lec7)
+{{% resource_link 00e006bc-d7de-3633-cc0b-f90e059cc78b "Virus Engineering (PDF - 5.9MB)" %}}
 
 Guest Lecturer: Dr. Ian Wickersham
 
@@ -60,7 +65,7 @@ Guest Lecturer: Dr. Ian Wickersham
 Lab 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Structural MRI (PDF - 1.9MB)]({{< baseurl >}}/resources/mit9_123f14_lab9)
+{{% resource_link 9e7eee56-8e92-baf1-7c64-c38d7068828e "Structural MRI (PDF - 1.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ Lab 9
 Lab 11
 {{< tdclose >}}
 {{< tdopen >}}
-[High Throughput Neuroscience Yanik's Lab (PDF)]({{< baseurl >}}/resources/mit9_123f14_lab11)
+{{% resource_link a680efdb-7463-c9c4-4744-39ee4394968f "High Throughput Neuroscience Yanik's Lab (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

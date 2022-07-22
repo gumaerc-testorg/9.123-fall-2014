@@ -1,30 +1,31 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 3e0adc8e-6434-7468-4576-b8a1c1597fbe
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _9.123/20.203 Neurotechnology in Action_ as it was taught by associate professors Alan Jasanoff and Ed Boyden and instructor Maxine Jonas in Fall 2014.
 
 This course offered students exposure to cutting-edge neurotechnologies as they are being developed and used by MIT laboratories. The course was designed as a series of modules, each generally consisting of a background lecture given by a faculty member or senior lab member, followed by one to two hands-on lab sessions. During the labs, students witnessed experiments, viewed instrumentation and analysis methods in operation, and interacted with scientists who were experts in the techniques.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
 Students were given exceptional face-to-face contact with experts around campus. For each module, students were expected to learn to:
 
-*   understand the basic principles and practical issues,
-*   observe where the methods can be best applied,
-*   know how to gain more in-depth knowledge if and when necessary.
+- understand the basic principles and practical issues,
+- observe where the methods can be best applied,
+- know how to gain more in-depth knowledge if and when necessary.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -32,7 +33,7 @@ Permission of the instructors
 
 ### Requirements Satisfied
 
-9.123/20.203 is a core class of the [MIT Neurobiological Engineering Training Program (NBETP) and associated Certificate Program (NBECP)](http://web.mit.edu/cnbe/training.html). Additionally, it can be applied towards a [graduate degree from the Department of Brain and Cognitive Sciences](https://bcs.mit.edu/academic-program/graduate-program) or a [graduate degree from the Department of Biological Engineering](http://be.mit.edu/academic-programs/current-graduate).
+9.123/20.203 is a core class of the [MIT Neurobiological Engineering Training Program (NBETP) and associated Certificate Program (NBECP)](http://web.mit.edu/cnbe/training.html). Additionally, it can be applied towards a [PhD from the Department of Brain and Cognitive Sciences](https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program) or a [graduate degree from the Department of Biological Engineering](http://be.mit.edu/academic-programs/current-graduate).
 
 ### Offered
 
@@ -40,12 +41,11 @@ Every fall semester
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "9.123/20.203 Neurotechnology in Action takes advantage of the resources on campus to build a unique course that delivers exceptional instruction on cutting-edge neurotechnology." "—Professor Jasanoff" >}}
 
-_Below, Professor Jasanoff describes various aspects of how he, Associate Professor Boyden and Doctor Jonas designed and taught _9.123/20.203 Neurotechnology in Action_._
+_Below, Professor Jasanoff describes various aspects of how he, Associate Professor Boyden and Doctor Jonas designed and taught_ 9.123/20.203 Neurotechnology in Action.
 
 This course is a core component of the training curriculum for MIT’s recently inaugurated [Center for Neurobiological Engineering](http://web.mit.edu/cnbe/). The Center’s mission includes the advancement of education at the interfaces between neuroscience and engineering through providing students with leading edge instruction on the theoretical and practical aspects of neurotechnology.
 
@@ -53,8 +53,7 @@ MIT is well known for its development and use of ground-breaking neurotechnologi
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -63,10 +62,11 @@ The students' grades were based on the following activities:
 - 30% Final project
 - 10% Participation
 
-Student Information
--------------------
+## Student Information
 
-![10 students took this course when it was offered in Fall 2014.]({{< resource_file a908c794-9ee3-488f-70e6-c7a44804dcd0 >}})
+### Enrollment
+
+10 students
 
 ### Breakdown by Year
 
@@ -78,31 +78,27 @@ Neurobiological Engineering Training & Certificate Program participants, along w
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   Met 1 time per week for 1.5 hours per session; 15 sessions total; mandatory attendance
-*   Lectures were presented by a subject-matter expert
-*   9 sessions included a quiz at the start of the class session on material from the previous lecture/lab material
-*   1 session was used to discuss the final projects
-*   2 sessions were student presentations on final projects
+- Met 1 time per week for 1.5 hours per session; 15 sessions total; mandatory attendance
+- Lectures were presented by a subject-matter expert
+- 9 sessions included a quiz at the start of the class session on material from the previous lecture/lab material
+- 1 session was used to discuss the final projects
+- 2 sessions were student presentations on final projects
 
-Laboratory
-----------
+### Laboratory
 
-*   Met 1 time per week for 1.5 hours per session; 14 sessions total; mandatory attendance
-*   13 sessions met in the laboratory of the guest lecturer to observe or perform experiments with the neurotechnology described in the lecture
-*   1 session was a field trip to the [lab of Professor Lichtman at Harvard](http://lichtmanlab.fas.harvard.edu/)
+- Met 1 time per week for 1.5 hours per session; 14 sessions total; mandatory attendance
+- 13 sessions met in the laboratory of the guest lecturer to observe or perform experiments with the neurotechnology described in the lecture
+- 1 session was a field trip to the [lab of Professor Lichtman at Harvard](http://lichtmanlab.fas.harvard.edu/)
 
-Out of Class
-------------
+### Out of Class
 
-*   Completed readings in advance of each lecture
-*   Prepared for quizzes on lectures and corresponding reading material
-*   Completed homework assignments
-*   Prepared final project paper and presentation
+- Completed readings in advance of each lecture
+- Prepared for quizzes on lectures and corresponding reading material
+- Completed homework assignments
+- Prepared final project paper and presentation
