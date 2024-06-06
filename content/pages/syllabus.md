@@ -17,7 +17,7 @@ Sessions: 2 sessions / week, 1.5 hours / session
 Course Description
 ------------------
 
-This course, as a part of MIT's {{% resource_link "b25c9c5f-8a55-4eaf-a4f6-534e76bc69e1" "Center for Neurobiological Engineering curriculum" %}}, explores cutting-edge neurotechnology that is essential for advances in all aspects of neuroscience, including improvements in existing methods as well as the development, testing and discussion of completely new paradigms. Readings and in-class sessions cover the fields of electrophysiology, light microscopy, cellular engineering, optogenetics, electron microscopy, MRI / fMRI, and MEG / EEG. The course is designed with lectures that cover the background, context, and theoretical descriptions of neurotechnologies, and labs, which provide firsthand demonstrations as well as _in situ_ lab tours.
+This course, as a part of MIT's [Center for Neurobiological Engineering curriculum](http://web.mit.edu/cnbe/training.html), explores cutting-edge neurotechnology that is essential for advances in all aspects of neuroscience, including improvements in existing methods as well as the development, testing and discussion of completely new paradigms. Readings and in-class sessions cover the fields of electrophysiology, light microscopy, cellular engineering, optogenetics, electron microscopy, MRI / fMRI, and MEG / EEG. The course is designed with lectures that cover the background, context, and theoretical descriptions of neurotechnologies, and labs, which provide firsthand demonstrations as well as _in situ_ lab tours.
 
 Please see the {{% resource_link 687191aa-88b0-09c3-aae2-bd454da42cab "Course Publicity" %}} page about the blog series by Amy Robinson for _Scientific American_ and EyeWire.  
 
@@ -116,7 +116,7 @@ Course Introduction; Overview of Neurotechnology
 {{< tdopen >}}
 
 
-{{% resource_link "807619e2-6178-4e35-96fa-dd53ea9d1f59" "Advanced Microscopy" %}}
+[Advanced Microscopy](http://be.mit.edu/directory/peter-so)
 
 Guest lecturers: Prof. Elly Nedivi, Prof. Peter So
 
@@ -152,7 +152,7 @@ Guest Lecturer: Kalen Berry, Elijah Yew
 {{< tdopen >}}
 
 
-{{% resource_link "ec915c31-2783-4589-ab2a-76a6fa62b582" "High-density Electrophysiology" %}}
+[High-density Electrophysiology](http://web.mit.edu/org/w/wilsonlab/html/research.html)
 
 Guest lecturer: Prof. Matt Wilson
 
@@ -188,7 +188,7 @@ Guest Lecturer: Jon Newman
 {{< tdopen >}}
 
 
-{{% resource_link "b5fc8be6-ab06-4ceb-98f5-0c92fa1daf97" "Microfluidics and Cell Engineering" %}}
+[Microfluidics and Cell Engineering](http://web.mit.edu/meche/mb/)
 
 Guest Lecturers: Prof. Roger Kamm & Sebastien Uzel
 
@@ -218,7 +218,7 @@ Microfluidics and Cell Engineering (cont.)
 {{< tdopen >}}
 
 
-{{% resource_link "33380f88-601c-4cbf-ac1e-80b0a3305aa5" "EM-based Connectomics" %}}
+[EM-based Connectomics](http://lichtmanlab.fas.harvard.edu/)
 
 Guest Lecturer: Dr. Daniel Berger
 
@@ -252,7 +252,7 @@ Field Trip: Lichtman lab at Harvard
 6
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "286c998b-7993-44de-b2b4-8fc54b325839" "Optogenetics" %}}
+[Optogenetics](http://syntheticneurobiology.org/)
 {{< tdclose >}}
 {{< tdopen >}}
 Quiz 4  
@@ -291,7 +291,7 @@ Auto Patch Clamping
 {{< tdopen >}}
 
 
-{{% resource_link "6da4e4c6-5a2f-4112-8c6e-02e627b3e7e2" "Virus Engineering" %}}
+[Virus Engineering](http://www.geneticneuroengineering.org/)
 
 Guest Lecturer: Dr. Ian Wickersham
 
@@ -309,7 +309,7 @@ Quiz 5 
 {{< tdopen >}}
 
 
-{{% resource_link "18ec1b8b-3c0e-413f-a617-9e6e15e2fa96" "Magnetoencephalography (MEG)" %}}
+[Magnetoencephalography (MEG)](https://mcgovern.mit.edu/2014/09/08/meg-matters/)
 
 Guest Lecturer: Prof. Dimitrios Pantazis
 
@@ -339,7 +339,7 @@ MEG (cont.)
 {{< tdopen >}}
 
 
-{{% resource_link "7dd5dbab-8a4c-4b27-ad2d-b9f87200e5e6" "Structural Magnetic Resonance Imaging (MRI)" %}}
+[Structural Magnetic Resonance Imaging (MRI)](https://mcgovern.mit.edu/centers/martinos-imaging-center/our-imaging-technologies/)
 
 Guest Lecturer: Dr. Atsushi Takahashi
 
@@ -369,7 +369,7 @@ Structural MRI
 {{< tdopen >}}
 
 
-{{% resource_link "f0add98b-6207-40d0-8011-9d626fcc73a0" "Functional and Molecular MRI" %}}
+[Functional and Molecular MRI](http://mcgovern.mit.edu/technology/martinos-imaging-center)
 
 Guest Lecturer: Dr. Atsushi Takahashi
 
@@ -445,7 +445,7 @@ Discussion of Final Project Guidelines
 {{< tdopen >}}
 
 
-{{% resource_link "1eef9d43-73cf-4746-8f64-8fd78acc1a58" "Whole-brain Optical Imaging" %}}
+[Whole-brain Optical Imaging](http://chunglab.org/)
 
 Guest Lecturer: Prof. Kwanghun Chung
 
@@ -462,7 +462,7 @@ Homework 3 due
 Lab 13
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "44f98379-b739-44c5-b678-ca4a825bc18b" "CLARITY" %}}
+[CLARITY](http://clarityresourcecenter.org/)
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -2,6 +2,7 @@
 content_type: resource
 description: Image showing the number of students enrolled in the course.
 file: /courses/9-123-neurotechnology-in-action-fall-2014/a908c7949ee3488f70e6c7a44804dcd0_9-123_stat-students.png
+file_size: 2820
 file_type: image/png
 image_metadata:
   caption: ''

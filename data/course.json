@@ -33,7 +33,7 @@
     "website": "9-123-neurotechnology-in-action-fall-2014"
   },
   "course_title": "Neurotechnology in Action",
-  "course_description": "This course, as a part of MIT's {{% resource_link \"b25c9c5f-8a55-4eaf-a4f6-534e76bc69e1\" \"Center for Neurobiological Engineering curriculum\" %}}, explores cutting-edge neurotechnology that is essential for advances in all aspects of neuroscience, including improvements in existing methods as well as the development, testing and discussion of completely new paradigms. Readings and in-class sessions cover the fields of electrophysiology, light microscopy, cellular engineering, optogenetics, electron microscopy, MRI / fMRI, and MEG / EEG. The course is designed with lectures that cover the background, context, and theoretical descriptions of neurotechnologies, and labs, which provide firsthand demonstrations as well as in situ lab tours.\n",
+  "course_description": "This course, as a part of MIT's [Center for Neurobiological Engineering curriculum](http://web.mit.edu/cnbe/training.html), explores cutting-edge neurotechnology that is essential for advances in all aspects of neuroscience, including improvements in existing methods as well as the development, testing and discussion of completely new paradigms. Readings and in-class sessions cover the fields of electrophysiology, light microscopy, cellular engineering, optogenetics, electron microscopy, MRI / fMRI, and MEG / EEG. The course is designed with lectures that cover the background, context, and theoretical descriptions of neurotechnologies, and labs, which provide firsthand demonstrations as well as in situ lab tours.\n",
   "department_numbers": [
     "9",
     "20"
