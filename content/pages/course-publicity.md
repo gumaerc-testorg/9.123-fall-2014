@@ -10,11 +10,11 @@ uid: 687191aa-88b0-09c3-aae2-bd454da42cab
 ---
 ## Reporting by Amy Robinson for *Scientific American* and EyeWire.
 
-[Amy Robinson](https://www.amysterling.org/) is the Executive Director of [EyeWire](http://blog.eyewire.org/about/), a brain mapping game. She gave a [TED talk on EyeWire](https://blog.ted.com/eyewires-creative-director-on-her-ted-experience/) at the TEDxAmsterdam conference in 2013. She attended 9.123/20.203 to see how technology is rapidly changing and advancing neuroscience. She recorded her experiences using a *Scientific American* blog series and EyeWire blog series. There are a six entries, each with a video component:
+{{% resource_link "07e82a23-6cd2-4661-9a68-9727a0deb200" "Amy Robinson" %}} is the Executive Director of {{% resource_link "138df876-a166-4d42-b687-a56f896fb344" "EyeWire" %}}, a brain mapping game. She gave a {{% resource_link "d6a9d22e-9bba-4fdc-97d2-93f1af36a6ac" "TED talk on EyeWire" %}} at the TEDxAmsterdam conference in 2013. She attended 9.123/20.203 to see how technology is rapidly changing and advancing neuroscience. She recorded her experiences using a *Scientific American* blog series and EyeWire blog series. There are a six entries, each with a video component:
 
-- [Journey Through the Brain: MIT Neurotech](http://blogs.scientificamerican.com/expeditions/2014/09/18/journey-through-the-brain-mit-neurotech/), September 14, 2014.
-- [Journey Through the Brain: Multiphoton Microscopy](http://blogs.scientificamerican.com/expeditions/2014/09/25/journey-through-the-brain-multiphoton-microscopy/), September 25, 2014.
-- [MIT Neurotech: From Signals to Behavior](http://blogs.scientificamerican.com/expeditions/2014/10/02/mit-neurotech-from-signals-to-behavior/), October 2, 2014.
-- [MIT Neurotech: Microfluidics Opens a Window Into Unseen Worlds](http://blogs.scientificamerican.com/expeditions/2014/10/09/mit-neurotech-microfluidics-opens-a-window-into-unseen-worlds/), October 9, 2014.
-- [MIT Neurotech: Mapping the Brain with Connectomics](http://blogs.scientificamerican.com/expeditions/2014/10/18/mit-neurotech-mapping-the-brain-with-connectomics/), October 18, 2014.
-- [MIT Neurotech: Tapping into Neurons with Autopatching](http://blogs.scientificamerican.com/expeditions/2014/11/04/mit-neurotech-tapping-into-neurons-with-autopatching/), November 4, 2014.
+- {{% resource_link "747a311f-8da8-49bf-8eed-0462407c3058" "Journey Through the Brain: MIT Neurotech" %}}, September 14, 2014.
+- {{% resource_link "f2ee2793-1538-4ef8-ae7a-21e942263680" "Journey Through the Brain: Multiphoton Microscopy" %}}, September 25, 2014.
+- {{% resource_link "dfbd474a-8d67-4775-ac5d-22c957368b8b" "MIT Neurotech: From Signals to Behavior" %}}, October 2, 2014.
+- {{% resource_link "0bf40a73-696c-4b15-889c-728071a20741" "MIT Neurotech: Microfluidics Opens a Window Into Unseen Worlds" %}}, October 9, 2014.
+- {{% resource_link "4b574ea6-23a6-40ce-b7f8-db8d74e6e6ef" "MIT Neurotech: Mapping the Brain with Connectomics" %}}, October 18, 2014.
+- {{% resource_link "4afa5211-1c09-4294-b152-72e8cfeababd" "MIT Neurotech: Tapping into Neurons with Autopatching" %}}, November 4, 2014.
