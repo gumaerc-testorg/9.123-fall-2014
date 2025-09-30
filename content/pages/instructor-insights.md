@@ -33,7 +33,7 @@ Permission of the instructors
 
 ### Requirements Satisfied
 
-9.123/20.203 is a core class of the [MIT Neurobiological Engineering Training Program (NBETP) and associated Certificate Program (NBECP)](http://web.mit.edu/cnbe/training.html). Additionally, it can be applied towards a [PhD from the Department of Brain and Cognitive Sciences](https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program) or a [graduate degree from the Department of Biological Engineering](http://be.mit.edu/academic-programs/current-graduate).
+9.123/20.203 is a core class of the {{% resource_link "35cec32a-cc9e-4fb0-96a7-3df9f83342cb" "MIT Neurobiological Engineering Training Program (NBETP) and associated Certificate Program (NBECP)" %}}. Additionally, it can be applied towards a {{% resource_link "e037c774-9f3c-473b-9161-78b61b68eb41" "PhD from the Department of Brain and Cognitive Sciences" %}} or a {{% resource_link "43cb0c4a-df94-4084-ac8c-3cf85f2a35af" "graduate degree from the Department of Biological Engineering" %}}.
 
 ### Offered
 
@@ -47,7 +47,7 @@ Every fall semester
 
 _Below, Professor Jasanoff describes various aspects of how he, Associate Professor Boyden and Doctor Jonas designed and taught_ 9.123/20.203 Neurotechnology in Action.
 
-This course is a core component of the training curriculum for MIT’s recently inaugurated [Center for Neurobiological Engineering](http://web.mit.edu/cnbe/). The Center’s mission includes the advancement of education at the interfaces between neuroscience and engineering through providing students with leading edge instruction on the theoretical and practical aspects of neurotechnology.
+This course is a core component of the training curriculum for MIT’s recently inaugurated {{% resource_link "47cba8c6-8c52-4fbb-a62b-5ad9bf4e8c0c" "Center for Neurobiological Engineering" %}}. The Center’s mission includes the advancement of education at the interfaces between neuroscience and engineering through providing students with leading edge instruction on the theoretical and practical aspects of neurotechnology.
 
 MIT is well known for its development and use of ground-breaking neurotechnologies as well as an abundance of subject-matter experts, both faculty and senior lab members. _9.123/20.203 Neurotechnology in Action_ takes advantage of the resources on campus to build a unique course that delivers exceptional instruction on cutting-edge neurotechnology. The module design of the course, with a background lecture and 1-2 lab sessions for each neurotechnology, offers students opportunities to study optical imaging, optogenetics, high throughput neurobiology, MRI/fMRI, neuronal tissue engineering, viral and genetic tools, and connectomics or ex vivo neuroimaging. In addition, there are other modules that may be substituted or used in future semesters including advanced electrophysiological tools, neuronal data analysis, and automated approaches to neural experimentation. The course is also viewed as an opportunity to facilitate collaboration and “technology transfer” among diverse MIT laboratories.
 
@@ -94,7 +94,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 - Met 1 time per week for 1.5 hours per session; 14 sessions total; mandatory attendance
 - 13 sessions met in the laboratory of the guest lecturer to observe or perform experiments with the neurotechnology described in the lecture
-- 1 session was a field trip to the [lab of Professor Lichtman at Harvard](http://lichtmanlab.fas.harvard.edu/)
+- 1 session was a field trip to the {{% resource_link "05a50454-46a6-4642-88d8-3de5666a6e27" "lab of Professor Lichtman at Harvard" %}}
 
 ### Out of Class
 
